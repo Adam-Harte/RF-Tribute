@@ -1,0 +1,18 @@
+/* Elements */
+body{
+  font-family: lobster;
+}
+
+/* Classes */
+.jumbotron h1{
+  color: red;
+}
+
+.subHeading-text{
+  color: #226F54;
+}
+
+.list-text{
+  color: black;
+}
+
